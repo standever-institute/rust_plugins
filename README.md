@@ -1,2 +1,2 @@
 # rust_plugins
-C# and some Python3 scripts for Rust MMO
+C# and some JSON scripts for Rust MMO
